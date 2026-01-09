@@ -1,8 +1,10 @@
 # Python
 **List of Practical on Python**
 
-1	Personalized Greeting Generator* - Write a python code to generate Personalized Greeting.				
-2	Calculating Areas of Geometric Figures* - Write a python program to calculate areas of any geometric figures like circle, rectangle and triangle.				
+1	Personalized Greeting Generator* - Write a python code to generate Personalized Greeting.	
+
+2	Calculating Areas of Geometric Figures* - Write a python program to calculate areas of any geometric figures like circle, rectangle and triangle.	
+
 3	Calculating Gross Salary of an Employee*: Write a Python program to calculate the gross salary of an employee. The program should prompt the user for the basic salary (BS) and then compute the dearness allowance (DA) as 70% of BS, the travel allowance (TA) as 30% of BS, and the house rent allowance (HRA) as 10% of BS. Finally, it should calculate the gross salary as the sum of BS, DA, TA, and HRA and display the result.				
 4	Exploring Basic Arithmetic Operations in Python*: Write a Python program to explore basic arithmetic operations. The program should prompt the user to enter two numbers and then perform addition, subtraction, multiplication, division, and modulus operations on those numbers. The results of each operation should be displayed to the user.				
 5	Task List Manager*: Develop a Python program to manage a task list using lists and tuples, including adding, removing, updating, and sorting tasks.				
